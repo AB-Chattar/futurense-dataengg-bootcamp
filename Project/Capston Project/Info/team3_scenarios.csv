@@ -1,0 +1,14 @@
+﻿,Team 3 - Wealth Management
+,
+,Scenarios:
+,
+1,Retrieve the total number of transactions by gender wise and also who are creating high number of transactions male or female.
+2,"What is the highest revenue by age wise, greater than 1 lakh, in this how many males and females geting more than one lakh revenue."
+3,"Retrieve the risk profile based on the revenue, where the risk profile is greater than 0.40 in that how many males and how many females."
+4,Retrieve the portfolio return by age wise and revenue wise and which portfolio return is higher based on the higher net assests.
+5,"Retrieve the total number of net assests by age wise, by revenue wise, and who has the highest net assests by gender i.e. by male and female."
+6,What is the minimum margin i.e. less than 0.10 by estimated salary.
+7,Which is the highest estimated salary by risk profile and revenue and how many number of males and females retrieving more than 1 lakh estimated salary.
+8,Total number of govt. bonds and corp. bonds by revenue wise and age wise.
+9,Retrieve the customerids who has the highest net assests by risk profiles.
+10,Which country is the highest revenue least risk profile and what are their ages.
